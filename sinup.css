@@ -1,0 +1,51 @@
+.head{
+    padding-left: 28rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 1px solid #86d0fe;
+    font-weight: 600;
+
+    background-color: #86d0fe;
+    
+}
+*{
+    background-color: ;
+}
+
+.input_form{
+    font-size: 21px;
+    margin-top: 2rem;
+    padding-left: 1rem;
+
+
+
+}
+
+.insert_form{
+    padding-left: 22rem;
+    margin-top: 8rem;
+    border: 2px solid white;
+    border-right-width: 5rem;
+    background-color: #86d0fe;
+    border-top-width: 1rem;
+    border-left-width: 4rem;
+    margin-right: 1px;
+
+}
+
+.submit-btn{
+    margin-top: 5.5rem;
+    border: 2px solid ;
+    margin-left:6rem;
+    padding-top: -1rem;
+}
+.link-btn{
+    margin-left: 6rem;
+    font-size:29px;
+    text-decoration: none;
+    color: red;
+}
+
+
+
+
+
